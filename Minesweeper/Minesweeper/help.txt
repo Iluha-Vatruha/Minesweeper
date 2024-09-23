@@ -1,0 +1,13 @@
+- The Grid: The game is played on a grid of squares. Each square can either contain a mine or be empty.
+
+- Mines: Mines are hidden under some of the squares. If you click on a square containing a mine, you lose the game.
+
+- Revealing Squares: Input coordinates and the game will reveal consistence of the square.
+
+- Empty Squares: If a square is empty, it will reveal itself and all its adjacent empty squares.
+
+- Numbered Squares: If a square is adjacent to a mine, it will reveal a number indicating how many mines are adjacent to that square.
+
+- Flaggs: You can place an flag on a square. This indicates that you think a mine is located there. If there is mine, it will be counted as deactivated mine.
+
+- Winning: You win the game when you have revealed all the safe squares without clicking on any mines.
